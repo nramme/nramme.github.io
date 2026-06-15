@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Nathalia Ramme M. de Albuquerque"
+title                    : "Nathalia Rammé M. de Albuquerque"
 title_separator          : "-"
-name                     : &name "Nathalia Ramme M. de Albuquerque"
+name                     : &name "Nathalia Rammé M. de Albuquerque"
 description              : &description "Nathalia's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nramme.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Nathalia"
   pronouns         : # example: "she/her"  
-  bio              : "I am a researcher interested in the evolutionary biology and population genomics of malaria parasites, with a focus on zoonotic malaria and the evolution of *Plasmodium vivax* and *Plasmodium simium*."
+  bio              : "I am a researcher interested in the evolutionary biology and population genomics of malaria parasites, with a focus on zoonotic malaria and the evolution of _Plasmodium vivax_ and _Plasmodium simium_."
   location         : "Earth"
   employer         : "University of São Paulo (USP)"
   uri              : # URL

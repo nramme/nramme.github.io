@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Nathalia Rammé M. de Albuquerque"
+title                    : "Nathalia"
 title_separator          : "-"
 name                     : &name "Nathalia Rammé M. de Albuquerque"
 description              : &description "Nathalia's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "nramme/nramme.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nathalia"
+  name             : "Nathalia Rammé M. de Albuquerque"
   pronouns         : # example: "she/her"  
   bio              : "I am a researcher interested in the evolutionary biology and population genomics of malaria parasites."
   location         : "Earth"

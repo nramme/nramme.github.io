@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Genetics and Molecular Biology, Federal University of Rio Grande do Sul (UFRGS), Brazil, 2022
+* B.S. in Biomedical Sciences, Federal University of Rio Grande do Sul (UFRGS), Brazil, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - present: Postdoctoral Researcher – Population Genomics (FAPESP-funded)
+  * University of São Paulo (USP), Brazil
+  * Duties includes: large-scale WGS analysis of <em>Plasmodium</em> spp., investigating population structure, transmission dynamics, and genomic signatures   associated with adaptation and geographic dispersal; development and implementation of scalable Python-based pipelines for processing thousands of genomic samples in HPC environments, ensuring reproducibility and traceability; phylogenetic and population genetic analyses to characterize lineage relationships and infer evolutionary history; student training in genomic data analysis and workflow implementation.
+  * Supervisor: Marcelo Urbano Ferreira
 
 * Fall 2015: Research Assistant
   * GitHub University

@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Genetics and Molecular Biology, <strong>Federal University of Rio Grande do Sul (UFRGS)</strong>, Brazil, 2022
+  * Thesis: Comparative Genomics Of Microsporidia: A New Species Description, Taxonomic Delimitation And The Origin Of Genome Architectures
+
 * B.S. in Biomedical Sciences, <strong>Federal University of Rio Grande do Sul (UFRGS)</strong>, Brazil, 2018
 
 Work experience

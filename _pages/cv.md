@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Genetics and Molecular Biology, Federal University of Rio Grande do Sul (UFRGS), Brazil, 2022
-* B.S. in Biomedical Sciences, Federal University of Rio Grande do Sul (UFRGS), Brazil, 2018
+* Ph.D in Genetics and Molecular Biology, <strong>Federal University of Rio Grande do Sul (UFRGS)</strong>, Brazil, 2022
+* B.S. in Biomedical Sciences, <strong>Federal University of Rio Grande do Sul (UFRGS)</strong>, Brazil, 2018
 
 Work experience
 ======
-* 2022 - present: Postdoctoral Researcher – Population Genomics (FAPESP-funded)
-  * University of São Paulo (USP), Brazil
+* 2022 - present: Postdoctoral Researcher – Population Genomics (FAPESP-funded) \
+<strong>University of São Paulo (USP), Brazil</strong>
   * Duties includes: large-scale WGS analysis of <em>Plasmodium</em> spp., investigating population structure, transmission dynamics, and genomic signatures   associated with adaptation and geographic dispersal; development and implementation of scalable Python-based pipelines for processing thousands of genomic samples in HPC environments, ensuring reproducibility and traceability; phylogenetic and population genetic analyses to characterize lineage relationships and infer evolutionary history; student training in genomic data analysis and workflow implementation.
   * Supervisor: Marcelo Urbano Ferreira
 
-* 2024 - 2025: Visiting Postdoctoral Researcher – Genome Sciences (FAPESP-funded)
-  * University of Maryland – Baltimore, USA
+* 2024 - 2025: Visiting Postdoctoral Researcher – Genome Sciences (FAPESP-funded) \
+<strong>University of Maryland – Baltimore, USA</strong>
   * Duties included: Advanced training in population genomics workflows, including large-scale WGS processing, variant calling, and detection of selection signatures; collaborated with international research teams in genomic data analysis and interpretation.
   * Supervisor: Joana Carneiro da Silva
 
-* 2018 - 2022: PhD Researcher – Comparative and Structural Genomics (CNPq-funded)
-  * Federal University of Rio Grande do Sul (UFRGS), Brazil
+* 2018 - 2022: PhD Researcher – Comparative and Structural Genomics (CNPq-funded) \
+<strong>Federal University of Rio Grande do Sul (UFRGS), Brazil</strong>
   * Duties included: Assembled and annotated the genome of a novel microsporidian parasite, performing comprehensive validation and functional characterization; conducted comparative genomics and phylogenomic analyses to investigate evolutionary relationships and genomic divergence; analysed genome structure and genetic elements contributing to evolutionary adaptation.
   * Supervisor: Karen Luisa Haag
  
-* Feb 2020 – Apr 2020: Doctoral Research Internship (CNPq-funded)
-  * Illinois Institute of Technology - Chicago, USA
+* Feb 2020 – Apr 2020: Doctoral Research Internship (CNPq-funded) \
+<strong>Illinois Institute of Technology - Chicago, USA</strong>
   * Duties included: Trained in genome assembly and annotation methodologies, including validation and quality assessment of genomic datasets.
   * Supervisor: Jean-François Pombert
   

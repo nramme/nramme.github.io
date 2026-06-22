@@ -1,11 +1,10 @@
 ---
 title: "$$Plasmodium$$ $$simium$$: birth and evolution of a zoonotic malaria parasite species."
 collection: publications
-category: conferences
+category: manuscripts
 permalink: https://doi.org/10.1017/S0031182025100310
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Despite greater genetic similarity to $$P. vivax$$ populations from the Amazon Basin of Brazil, regional PCA and ADMIXTURE analyses reveal a clear divergence between $$P. simium$$ and $$P. vivax$$ populations, with P. simium isolates forming a distinct cluster in both analyses. Our findings point to $$P. simium$$ as the causative agent of most, if not all, malarial infections usually attributed to $$P. vivax$$ in the southeast region of Brazil, including the Atlantic Forest and nearby urban centers.'
+date: 2025-07-16
+venue: 'Parasitology'
+citation: 'de Albuquerque, NRM et al. (2025). $$Plasmodium$$ $$simium$$: birth and evolution of a zoonotic malaria parasite species. $$Parasitology$$, 152(8):848–859.'
 ---

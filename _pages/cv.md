@@ -21,24 +21,29 @@ Work experience
   * Duties includes: large-scale WGS analysis of <em>Plasmodium</em> spp., investigating population structure, transmission dynamics, and genomic signatures   associated with adaptation and geographic dispersal; development and implementation of scalable Python-based pipelines for processing thousands of genomic samples in HPC environments, ensuring reproducibility and traceability; phylogenetic and population genetic analyses to characterize lineage relationships and infer evolutionary history; student training in genomic data analysis and workflow implementation.
   * Supervisor: Marcelo Urbano Ferreira
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024 - 2025: Visiting Postdoctoral Researcher – Genome Sciences (FAPESP-funded)
+* University of Maryland – Baltimore, USA
+  * Duties included: Advanced training in population genomics workflows, including large-scale WGS processing, variant calling, and detection of selection signatures; collaborated with international research teams in genomic data analysis and interpretation.
+  * Supervisor: Joana Carneiro da Silva
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - 2022: PhD Researcher – Comparative and Structural Genomics (CNPq-funded)
+  * Federal University of Rio Grande do Sul (UFRGS), Brazil
+  * Duties included: Assembled and annotated the genome of a novel microsporidian parasite, performing comprehensive validation and functional characterization; conducted comparative genomics and phylogenomic analyses to investigate evolutionary relationships and genomic divergence; analysed genome structure and genetic elements contributing to evolutionary adaptation.
+  * Supervisor: Karen Luisa Haag
+ 
+* Feb 2020 – Apr 2020: Doctoral Research Internship (CNPq-funded)
+  * Illinois Institute of Technology - Chicago, USA
+  * Duties included: Trained in genome assembly and annotation methodologies, including validation and quality assessment of genomic datasets.
+  * Supervisor: Jean-François Pombert
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming & Scripting: Python, R and bash
+* Genomic Analysis: WGS, variant calling, genome assembly, genome annotation, population genomics, comparative genomics, phylogenomics
+* Workflow & Reproducibility: Conda and SLURM
+* Computing: High-Performance Computing (HPC), large-scale data processing
+* Data Analysis: Statistical genomic analysis, population structure and evolutionary inference
+* Languages: Portuguese (Native), English (Fluent), German (Basic – in progress)
 
 Publications
 ======
@@ -58,6 +63,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

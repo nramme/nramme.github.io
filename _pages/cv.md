@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Marcelo Urbano Ferreira
 
 * 2024 - 2025: Visiting Postdoctoral Researcher – Genome Sciences (FAPESP-funded)
-* University of Maryland – Baltimore, USA
+  * University of Maryland – Baltimore, USA
   * Duties included: Advanced training in population genomics workflows, including large-scale WGS processing, variant calling, and detection of selection signatures; collaborated with international research teams in genomic data analysis and interpretation.
   * Supervisor: Joana Carneiro da Silva
 
